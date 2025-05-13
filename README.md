@@ -17,43 +17,43 @@ Neste módulo, os principais temas abordados são coleções em Python: tuplas, 
 ## Aulas
 
 **Aula 16 – Tuplas**  
-Imutabilidade  
-Indexação e fatiamento  
-Métodos úteis
+- Imutabilidade  
+- Indexação e fatiamento  
+- Métodos úteis
 
 **Aula 17 – Listas em Python**  
-Mutabilidade  
-Adição, remoção e ordenação  
-Cópias e referências
+- Mutabilidade  
+- Adição, remoção e ordenação  
+- Cópias e referências
 
 **Aula 18 – Dicionários**  
-Criação de dicionários  
-Acesso a chaves e valores  
-Interação com for
+- Criação de dicionários  
+- Acesso a chaves e valores  
+- Interação com for
 
 **Aula 19 – Funções (Parte 1)**  
-Definindo funções  
-Parâmetros e argumentos  
-Retorno de valores
+- Definindo funções  
+- Parâmetros e argumentos  
+- Retorno de valores
 
 **Aula 20 – Funções (Parte 2)**  
-Escopo de variáveis  
-Parâmetros opcionais  
-Documentação com docstring
+- Escopo de variáveis  
+- Parâmetros opcionais  
+- Documentação com docstring
 
 **Aula 21 – Funções especiais**  
-Empacotamento de parâmetros  
-Funções interativas com help()
+- Empacotamento de parâmetros  
+- Funções interativas com help()
 
 **Aula 22 – Módulos em Python**  
-Importação de módulos  
-Criação de módulos personalizados  
-Pacotes em Python
+- Importação de módulos  
+- Criação de módulos personalizados  
+- Pacotes em Python
 
 **Aula 23 – Tratamento de Erros e Exceções**  
-Try, except, else, finally  
-Levantando e tratando erros  
-Mensagens personalizadas de erro
+- Try, except, else, finally  
+- Levantando e tratando erros  
+- Mensagens personalizadas de erro
 
 ## Organização
 
