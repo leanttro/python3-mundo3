@@ -1,0 +1,4 @@
+Shampoo,24.0
+Condicionador,22.0
+Sabonete,3.0
+Pente,12.0
